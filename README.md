@@ -90,6 +90,7 @@ The main goal of this system is to provide an efficient and trackable way to man
 
 ## 📦 Folder Structure (Example)
 
+```
 bms/ 
 ├── bookmark/
     └── admin
@@ -101,7 +102,7 @@ bms/
 ├── login/
     └── index.php
 ├── index.php 
-
+```
 
 ---
 
@@ -111,6 +112,15 @@ bms/
 - Email/SMS notifications
 - QR code for each book entry
 - Dashboard analytics for admin
+
+---
+
+## 📸 Screenshots
+
+<img width="1920" height="1020" alt="Home" src="https://github.com/user-attachments/assets/419d874b-60f2-409a-af3e-1f5008a7ac06" />
+<img width="1920" height="1020" alt="Login Page" src="https://github.com/user-attachments/assets/8e37109f-c3f4-417a-b468-730f9c9cbaed" />
+<img width="1920" height="1020" alt="Home Page" src="https://github.com/user-attachments/assets/ae4f5ed0-a78b-4c67-a966-a985b0019ff8" />
+<img width="1920" height="1020" alt="Book List" src="https://github.com/user-attachments/assets/bc130d8d-069c-4279-93f7-70e189e9b401" />
 
 ---
 
